@@ -29,6 +29,9 @@
 body {
     background-color: var(--cor-0);
     font-family: var(--fonte-padrao);
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
 }
 
 header {
@@ -48,8 +51,9 @@ nav {
     background-color: var(--cor-6);
 }
 
-main{
+main {
     background-color: white;
+
 }
 
 main h1 {
