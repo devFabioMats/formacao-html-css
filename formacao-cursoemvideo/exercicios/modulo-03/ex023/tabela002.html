@@ -15,17 +15,22 @@
             border-collapse: collapse;
         }
 
-        td {
-            border: 1px solid #000;
-            padding: 8px;
+        td, th {
+            border: 1px solid black;
+            padding: 10px;
             text-align: center;
         }
-        
-        th {
-            border: 1px solid #000;
-            padding: 8px;
-            text-align: center;
-            background-color: darkgrey;
+
+        caption {
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 10px;
+            background-color: lightgrey;
+        }
+
+        thead, tfoot {
+            background-color: #383838;
+            color: white;
         }
 
     </style>
@@ -34,10 +39,11 @@
 <body>
     <h1>Uso de tabelas grandes</h1>
     <table>
+        <caption>POPULAÇÃO DAS UNIDADES FEDERATIVAS</caption>
         <thead>
             <tr>
-                <th>Estado</th>
-                <th>População</th>
+                <th scope="col">Estado</th>
+                <th scope="col">População</th>
             </tr>
         </thead>
         <tbody>
@@ -147,7 +153,7 @@
             </tr>
         </tbody>
         <tfoot>
-            <th>Total:</th>
+            <th scope="row">Total de Habitantes:</th>
             <td>211 755 692</td>
         </tfoot>
     </table>
