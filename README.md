@@ -9,15 +9,16 @@
 <!--END_SECTION:header-->
 
 ### 📝 **Sobre o curso:**
-- Curso de HTML e CSS oferecido pela plataforma [DIO](https://web.dio.me/home) e [Curso em Vídeo](https://www.cursoemvideo.com/)
-- Esta formação oferece uma experiência educacional completa de como trabalhar com HTML, a base para criar suas primeiras páginas WEB! Aprenda na prática a como estruturar a marcação da sua página e como funciona cada tag, conheça os elementos semânticos e outras boas práticas na hora de construir sua primeira página.
-- Ministrado por: [Diogo Medeiros Mainardes](https://linkedin.com/in/diogomainardes) (DIO - HTML) e [Gustavo Guanabara](https://github.com/professorguanabara) (CursoemVideo - HTML e CSS)
+- Curso de HTML e CSS oferecido pela plataforma [Curso em Vídeo](https://www.cursoemvideo.com/)
+- Esta formação oferece uma experiência educacional completa de como trabalhar com HTML e CSS, a base para criar suas primeiras páginas WEB! 
+- Ministrado por: [Gustavo Guanabara](https://github.com/professorguanabara) 
 
 ### ℹ️ **Sobre o repositório:**
 - ⚠️ Repositório criado exclusivamente para armazenar o conteúdo aprendido durante o curso
 
-<br>
-
-"O aprendiz é o mestre em formação." 
-
-_Fernanda Simões Rodrigues_
+### 📖 **Projetos do curso:**
+- [**Desafio Android:**](https://github.com/devFabioMats/projeto-android) Site jornalístico
+- [**Desafio Cordel:**](https://github.com/devFabioMats/projeto-cordel) Site em formato de história de cordel
+- [**Desafio Social:**](https://github.com/devFabioMats/projeto-social) Portifólio para redes sociais
+- [**Desafio Login:**](https://github.com/devFabioMats/projeto-login)
+ Criando uma tela de login responsiva
